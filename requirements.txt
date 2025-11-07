@@ -1,0 +1,6 @@
+pandas>=2.2.0
+openpyxl>=3.1.2
+thefuzz>=0.20.0
+python-Levenshtein>=0.23.0
+ollama>=0.3.3
+tqdm>=4.66.0
